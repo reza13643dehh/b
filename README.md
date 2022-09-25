@@ -1,3 +1,9 @@
+# BittyV2.py and easy to Run EXE
+
+![image](https://user-images.githubusercontent.com/88630056/192157897-b53251d3-4b68-450d-a94a-d593e8586c39.png)
+
+![image](https://user-images.githubusercontent.com/88630056/192157957-6351b77a-a721-435d-a39a-4ff219a65d61.png)
+
 # bitcoin-bruteforce [![CodeFactor](https://www.codefactor.io/repository/github/meesvw/bitcoin-bruteforce/badge)](https://www.codefactor.io/repository/github/meesvw/bitcoin-bruteforce)
 Bitcoin public address brute force written in Python with simplicity and speed in mind
 
