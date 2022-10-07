@@ -1,3 +1,14 @@
+# BruteV2.py
+
+Random and Sequence Using dask
+pip install simplebloomfilter
+pip install dask
+pip install bitarray==1.9.2
+
+![image](https://user-images.githubusercontent.com/88630056/194662745-d816d4ae-a247-4890-91c8-527560a3bf5a.png)
+
+
+
 # BittyV2.py and easy to Run EXE
 
 ![image](https://user-images.githubusercontent.com/88630056/192157897-b53251d3-4b68-450d-a94a-d593e8586c39.png)
