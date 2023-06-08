@@ -1,3 +1,9 @@
+# BittyV3.py
+Some basic changes does not require secp256k1.py file. Updated with Online checking.
+
+Bonus Online version with colour
+![image](https://github.com/Mizogg/bitcoin-bruteforce/assets/88630056/75af1e22-abdf-4d38-a2db-6fd510c74de0)
+
 # BruteV2.py
 
 Random and Sequence Using dask
