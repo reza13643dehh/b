@@ -80,7 +80,7 @@ def check_balance(addr, dec, HEX, count, count1):
         ctypes.windll.kernel32.SetConsoleTitleW('Total : ' + str(count1) + ' ₿al : ' + str(balance) + ' TXS : ' + str(txs))
         running_print_main = str('[gold1 on grey7]\nScan:[light_goldenred1]'+str(count) +'[green] Balance :[white]'+str(balance) +'[green] Transactions :[white]'+str(txs) +'[red][*]Dec :[*][/red][purple] >> ' + str(dec)[1:10] +'[/][gold1 on grey15] Addr: '+'[white] '+str(addr)+'[/]')
         style = "gold1 on grey7"
-        console.print(Panel(str(running_print_main) , title = "[white]\n mizogg.co.uk powerbalcolour.py [/]" , subtitle = "[green_yellow blink] Good Luck Happy Hunting [/]" , style = "green") , style = style , justify = "full")
+        console.print(Panel(str(running_print_main) , title = "[white]\n mizogg.co.uk blockstream.py [/]" , subtitle = "[green_yellow blink] Good Luck Happy Hunting [/]" , style = "green") , style = style , justify = "full")
         if txs > 0:
             length = len(bin(dec))
             length -=2
